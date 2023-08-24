@@ -1,0 +1,16 @@
+h1{
+          color: blue;
+
+}
+.box{
+          background-color: rgb(176, 176, 176);
+
+}
+#box2{
+          background-color: black;
+          color: white;
+}
+span{
+          color: white;
+          background-color: blue;
+}
