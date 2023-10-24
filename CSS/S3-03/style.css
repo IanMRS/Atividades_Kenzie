@@ -1,7 +1,5 @@
 body{
-
           background: whitesmoke;
-
 }
 header{
           display: flex;
@@ -22,8 +20,7 @@ nav{
           height: 100%;
           display: flex;
           justify-content: flex-end;
-          flex-grow: 1;
-          
+          flex-grow: 1;      
 }
 nav a{
           padding: 0em 0.8em;
@@ -32,9 +29,6 @@ nav a{
           font-weight: 800;
           /*padding-bottom: 5px;
           border-bottom: 2px solid transparent;*/
-          
-          
-
 }
 a:hover{
           color: blue;
@@ -45,5 +39,4 @@ a:focus{
           color: blue;
           text-decoration: underline;
           /*border-bottom: 2px solid black;*/
-
 }
